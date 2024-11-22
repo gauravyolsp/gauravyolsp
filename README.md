@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... C, C++ 
 - 🌱 I’m currently learning ... Angular with MEAN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 9736395910
+- 📫 How to reach me ... gauravyolsp47@gmail.com
 
 <!---
 gauravyolsp/gauravyolsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
