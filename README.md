@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gaurav
 - 👀 I’m interested in ... C, C++ 
-- 🌱 I’m currently learning ... Angular with MEAN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gauravyolsp47@gmail.com
 
